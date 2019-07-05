@@ -3,5 +3,5 @@
 .DS_Store
 .project
 .idea
-.iml
+*.iml
 .gitignore
